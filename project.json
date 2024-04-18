@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.2.1.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.167139570",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -43,10 +43,10 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
-        "testCaseId": "6e9a36ac-2340-4e33-8455-bbf9dca50658",
+        "editingStatus": "Publishable",
+        "testCaseId": "f23e2b1c-65a9-4fbf-a7d9-6e29268585a5",
         "testCaseType": "TestCase",
-        "fileName": "TestCase.xaml"
+        "fileName": "ShowConsumerVariables_PL.xaml"
       }
     ],
     "saveToCloud": false
